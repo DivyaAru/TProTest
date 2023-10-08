@@ -38,7 +38,7 @@ The application is accessible at the URL specified in the Cypress configuration.
 The page object model is set up in the fixtures/pageObjectModel directory, providing necessary locators.
 The tests assume a certain state of the application, such as available elements and expected error messages.
 
-# Bug noticed in Test Scenario 2: "Page After Login Test"
+### Bug noticed in Test Scenario 2: "Page After Login Test"
 
 Summary: User click on the Update button in the "Password" Screen, Snack bar is displayed as "Invalid Credentials"
 According to the requirement, after clicking on the Update button, the user is not displayed as Successful Password update. Instead, the user is displayed with Invalid credentials.
