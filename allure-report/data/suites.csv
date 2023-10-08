@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Oct 08 17:07:57 IST 2023","Sun Oct 08 17:08:02 IST 2023","4624","","login test suite","","","","loginTest",""
+"passed","Sun Oct 08 17:08:04 IST 2023","Sun Oct 08 17:08:08 IST 2023","4293","","login test suite","","","","NegativeScranrios",""
+"passed","Sun Oct 08 17:08:02 IST 2023","Sun Oct 08 17:08:04 IST 2023","1629","","login test suite","","","","urlValidationAfterLogin",""
