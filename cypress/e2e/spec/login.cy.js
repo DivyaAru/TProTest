@@ -12,6 +12,7 @@ describe("Login Test Suite", function () {
   
   it('Login Test',function(){
     // Visit the homepage
+    // Visit the homepage
     cy.visit('/', {failOnStatusCode: false});
 
     // Input email and password
